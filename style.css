@@ -1,5 +1,5 @@
 p, a {
-	text-align: center;
+	text-align: left;
 	width: 100%;
 	font-size: 16px;
 	font-family: Comic Sans MS;
@@ -7,20 +7,5 @@ p, a {
 }
 #test{
 	font-style: italic;
-	color: red;
-}
-.divclass{
-}
-.parent {
-	width: 50%;
-	height: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	display: flex;
-	align-items: center;
-	align-content: center; 
-	justify-content: center; 
-	overflow: auto;  
-	border-left: 1px solid red; 
+	color: red; 
 }
