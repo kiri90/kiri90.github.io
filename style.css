@@ -9,3 +9,7 @@ p, a {
 	font-style: italic;
 	color: red;
 }
+.divclass{
+	align: center;
+	width: 100%;
+}
