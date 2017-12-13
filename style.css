@@ -10,6 +10,8 @@ p, a {
 	color: red;
 }
 .divclass{
+	margin-left: 30%; /* Отступ слева */
+	margin-right: 30%;
 	border-width: 1px;
 	border-style: dashed;
 	border-color: black;
