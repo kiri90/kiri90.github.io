@@ -1,3 +1,7 @@
+html {
+	padding-top: 25px;
+	background-color: #fdd9b5;
+}
 h1 {
 	font-size: 3em;
 	color: #666666;
