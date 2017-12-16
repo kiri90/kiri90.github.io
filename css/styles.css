@@ -3,16 +3,10 @@ html {
 body {
 	background-color: #e1edeb;
 }
-h1 {
-	font-size: 3em;
-	color: #666666;
-	margin: 0;
-	padding: 0 0 2px 60px;
-}
-p {
-	color: red;
-	font-family: "NautilusPompiliusRegular";
-	line-height: 150%;
-	margin-top: 10px;
-	margin-left: 80px;
+.container h2 {
+    text-align: center;
+    text-transform: uppercase;
+  }
+.item {
+	text-align: justify;
 }
