@@ -1,12 +1,48 @@
 html {
+
 }
 body {
-	background-color: #e1edeb;
+	background-image: url(../img/bg.jpg);
 }
-.container h2 {
-    text-align: center;
-    text-transform: uppercase;
-  }
-.item {
-	text-align: justify;
+header {
+	border-bottom: 1px solid black; 
+}
+.container {
+	background-color: white;
+	border-top: 7px solid brown;
+}
+.logo {
+	padding: 17px 10px;
+}
+.section-head {
+	margin: 70px;
+	margin-bottom: 0;
+}
+.right {
+	text-align: right;
+}
+.maian_mnu {
+	color: #fff;
+	margin-bottom: 0px;
+}
+.maian_mnu ul {
+	margin: 0;
+	padding-top: 0px;
+	list-style-type: none;
+	float: right;
+	text-transform: uppercase;
+}
+.maian_mnu ul li {
+	display: inline-block;
+}
+.maian_mnu a {
+	color: black;
+	padding: 15px;
+	display: block;
+	-webkit-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s;
+}
+.maian_mnu a:hover {
+	background-color: brown;
 }
